@@ -9,7 +9,7 @@ window.Config = {
     //主服务器
     'm794351942-a0a87d291bdbc15da7bf854c',
     //主服务器 - SSH
-    'm794351942-a0a87d291bdbc15da7bf854c',
+    'm794351958-734bbdb0965b8935e61e5757',
     //主服务器 - Database
     'm794351958-734bbdb0965b8935e61e5757',
     //中转服务器 - Caddy
